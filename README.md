@@ -48,7 +48,7 @@
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
         <img src="https://img.shields.io/badge/gunicorn-003333?style=for-the-badge&logo=gunicorn&logoColor=white">
-        <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
         <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
     </div>
     <!-- Development Tools -->
