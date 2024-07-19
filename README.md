@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=BA55D3&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+hyunsu's+GitHub!👋)](https://git.io/typing-svg)
  
@@ -30,36 +27,17 @@ Here are some ideas to get you started:
  
 <br>
 
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://bi-sz.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
-    </a>
-    <a href="https://velog.io/@bi-sz">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <a href="https://li-yo.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://velog.io/@bi-sz)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
-</div><br>
 
- 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:kwonbe99@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    <a href="mailto:hyunssu1130@naver.com">
+        <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
     </a>
-    <a href="https://open.kakao.com/o/sGFzzbsf">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    <a href="https://open.kakao.com/o/s39aYLDg">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=black"> 
     </a>
-    <a href="https://www.instagram.com/kwonbi_">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-
 </div><br>
+
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
